@@ -1,0 +1,4 @@
+{"timestamp":"2026-01-01T12:00:00Z","eventId":4625,"user":"LAB\\alice","sourceIp":"192.0.2.40","logonType":3}
+{"timestamp":"2026-01-01T12:00:10Z","eventId":4625,"user":"LAB\\bob","sourceIp":"192.0.2.40","logonType":3}
+{"timestamp":"2026-01-01T12:00:20Z","eventId":4625,"user":"LAB\\carol","sourceIp":"192.0.2.40","logonType":10}
+{"timestamp":"2026-01-01T12:00:30Z","eventId":4624,"user":"LAB\\alice","sourceIp":"192.0.2.40","logonType":3}
