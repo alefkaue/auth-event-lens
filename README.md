@@ -1,7 +1,5 @@
 # Auth Event Lens · C# / .NET
 
-**Área do portfólio:** [Cybersecurity](https://github.com/alefkaue#cybersecurity) · **Contexto:** Projeto pessoal
-
 [![Tests](https://github.com/alefkaue/auth-event-lens/actions/workflows/tests.yml/badge.svg)](https://github.com/alefkaue/auth-event-lens/actions/workflows/tests.yml)
 
 Ferramenta de triagem **offline em C#** para eventos de autenticação normalizados. Identifica padrões de falha em múltiplas contas a partir do mesmo IP e login bem-sucedido após falha da mesma conta. Gera evidências por número de linha, sem acessar máquinas ou consultar serviços externos.
